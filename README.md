@@ -1,3 +1,5 @@
+> This repo has been archived and moved [here](https://github.com/etn-ccis/blui-react-component-library).
+
 # Brightlayer UI React Components
 
 [![](https://img.shields.io/circleci/project/github/brightlayer-ui/react-component-library/master.svg?style=flat)](https://circleci.com/gh/brightlayer-ui/react-component-library/tree/master)
